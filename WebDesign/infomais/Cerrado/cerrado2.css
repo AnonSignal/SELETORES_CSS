@@ -1,0 +1,36 @@
+h1 {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+h2 {
+    color: white;
+    background-color: green;
+    text-align: center;
+}
+p {
+    background-color: seagreen;
+    border-style: solid;
+    color: white;
+    text-align: left;
+}
+
+.flora {
+    color: black;
+    background-color: yellow;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a{
+    background-color: white;
+    text-align: center;
+    font-size: 35px;
+}
