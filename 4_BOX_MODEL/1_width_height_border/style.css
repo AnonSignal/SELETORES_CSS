@@ -6,4 +6,10 @@
 
     /* shorthand => vários valores no mesma propriedade */
     border: 2px solid #f00;
+
+    width: 200px;
+}
+
+.imagem_width{
+    width: 400px;
 }
